@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_airplane"
+        android:enabled="true"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="내 계정"/>
+
+    <item
+        android:id="@+id/action_airport"
+        android:enabled="true"
+        android:icon="@drawable/baseline_add_box_24"
+        android:title="찜"/>
+
+    <item
+        android:id="@+id/action_bt"
+        android:enabled="true"
+        android:icon="@drawable/baseline_add_task_24"
+        android:title="추억"/>
+
+    <item
+        android:id="@+id/action_call"
+        android:enabled="true"
+        android:icon="@drawable/baseline_apps_24"
+        android:title="빈 칸"/>
+
+    <item
+        android:id="@+id/action_run"
+        android:enabled="true"
+        android:icon="@drawable/baseline_map_24"
+        android:title="지도"/>
+
+
+
+</menu>
