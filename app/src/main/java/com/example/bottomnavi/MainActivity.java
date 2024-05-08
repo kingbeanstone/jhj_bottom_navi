@@ -13,7 +13,7 @@ import androidx.core.view.WindowInsetsCompat;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
-
+//확인용
 public class MainActivity extends AppCompatActivity {
 
     private BottomNavigationView bottomNavigationView;
